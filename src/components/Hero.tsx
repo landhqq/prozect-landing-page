@@ -16,7 +16,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Pre-Construction
+          Pre-Construction Works
           <br />
           <span className="text-accent">Automation</span>
         </h1>
