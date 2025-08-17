@@ -12,9 +12,9 @@ const Services = () => {
     },
     {
       icon: <MapPin className="w-8 h-8 text-primary" />,
-      title: "Land Acquisition Drafting",
-      description: "Complete Dhara work automation from 4th dhara to awarding, ensuring legal compliance and streamlined acquisition processes.",
-      features: ["4th Dhara Processing", "Legal Documentation", "Compliance Check", "Award Management"],
+      title: " Land Acquisition Documentation & Consultancy",
+      description: " End to End Land Acquisition Documentation and Legal Compliances.",
+      features: ["Complete Social Impact Assessment ( Rule 3 to Section 8)", "Quick Land Record Preparation ( Section 11-12 to 19)", "Award and R& R Management"],
       status: true
     },
     {
